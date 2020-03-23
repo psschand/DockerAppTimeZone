@@ -1,0 +1,58 @@
+<TimeZones>
+    <TimeZone>
+        <Id>1</Id>
+        <Name>Baker Island, Howland Island (both uninhabited) UTC-12:00</Name>
+        <Hours>-12</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>2</Id>
+        <Name>American Samoa, Niue UTC-11:00</Name>
+        <Hours>-11</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>3</Id>
+        <Name>United States (Hawaii) UTC-10:00</Name>
+        <Hours>-10</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>4</Id>
+        <Name>Marquesas Islands UTC-09:30</Name>
+        <Hours>-9</Hours>
+        <Mins>30</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>5</Id>
+        <Name>Gambier Islands UTC-09:00</Name>
+        <Hours>-9</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>6</Id>
+        <Name>Canada (most of British Columbia), Mexico (Baja California), United States (California, most of Nevada, most of Oregon, Washington (state)) UTC-08:00</Name>
+        <Hours>-8</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>7</Id>
+        <Name>Canada (northeastern British Columbia), Mexico (Sonora), United States(Arizona) UTC-07:00</Name>
+        <Hours>-7</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+    <TimeZone>
+        <Id>8</Id>
+        <Name>Canada (almost all of Saskatchewan), Costa Rica, El Salvador, Ecuador (Galápagos Islands), Guatemala, Honduras, Mexico (most), Nicaragua, UTC-06:00</Name>
+        <Hours>-6</Hours>
+        <Mins>0</Mins>
+        <Secs>0</Secs>
+    </TimeZone>
+</TimeZones>
