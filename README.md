@@ -13,8 +13,8 @@ In the first app the production ready environment is build in which there are 3 
  **2.** client
  **3.** db(for database)
 
- **1.** in server directory Adonis framework is used, which has ample amount of libarary,
- which can be utilise by the developer once in a life.
+ **1.** in server directory Adonis framework is used, which has ample amount of libraries,
+ which can be utilised by the developer.
  **2**. client: in this directory production ready build of React App has been used. whenever a
  developer feels the desired React app is ready to deploy then the user will build the React App using the command
  
@@ -29,4 +29,4 @@ In the first app the production ready environment is build in which there are 3 
 **2.** ReactApp directory contains the actual code of webapp, this app has a lots of boilerplate, which are essential for a 
  scalable application to make development perfect for the further updates.
 
-to deploy this application i have already mentioned the ways in the above lines.
+to deploy this application I have already mentioned the ways in the above lines.
