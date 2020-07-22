@@ -29,4 +29,4 @@ In the first app the production ready environment is build in which there are 3 
 **2.** ReactApp directory contains the actual code of webapp, this app has a lots of boilerplate, which are essential for a 
  scalable application to make development perfect for the further updates.
 
-to deploy this application i have already metioned the ways in the upper lines.
+to deploy this application i have already mentioned the ways in the above lines.
